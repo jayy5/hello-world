@@ -2,5 +2,4 @@
 
 Howdy I'm Jason
 
-I'm 19, a CS major at UTD, I play basketball and videogames.
-I also like to stream games from time to time
+I'm 20, I play basketball, and i want to become a blockchain dev.
